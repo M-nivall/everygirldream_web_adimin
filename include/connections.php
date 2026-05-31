@@ -16,7 +16,7 @@ if (!$con) {
 $host     = "zephyr.proxy.rlwy.net";
 $user     = "root";
 $password = "vwukUfsZVrYOjHdkSaIJzaTvsldRwXik";
-$database = "every_girls_dream";
+$database = "every_girl_dream";
 $port     = 58449;
 
 $con = mysqli_connect($host, $user, $password, $database, $port);
